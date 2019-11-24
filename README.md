@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bapuji25/Space%20Game%20-%20web%20-%20Pipeline%20-%20bapuji25/_apis/build/status/bapuji25.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/bapuji25/Space%20Game%20-%20web%20-%20Pipeline%20-%20bapuji25/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
